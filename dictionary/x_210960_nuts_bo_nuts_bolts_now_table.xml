@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Nuts &amp; Bolts NOW Table" max_length="40" name="x_210960_nuts_bo_nuts_bolts_now_table" type="collection">
+        <element label="Company name" max_length="40" name="company_name" type="string"/>
+        <element label="Email address" max_length="40" name="email_address" type="string"/>
+        <element label="Phone number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="Physical Address" max_length="400" name="physical_address" type="string"/>
+    </element>
+</database>
