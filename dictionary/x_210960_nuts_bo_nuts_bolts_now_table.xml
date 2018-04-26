@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="task" label="Nuts &amp; Bolts NOW Table" max_length="40" name="x_210960_nuts_bo_nuts_bolts_now_table" type="collection">
+        <element label="Article name" max_length="40" name="article_name" type="string"/>
+        <element label="Article number" max_length="40" name="article_number" type="string"/>
         <element label="Company name" max_length="40" name="company_name" type="string"/>
-        <element label="Email address" max_length="40" name="email_address" type="string"/>
+        <element label="Diameter" max_length="40" name="diameter" type="string"/>
+        <element label="Diameter of head" max_length="40" name="diameter_of_head" type="float"/>
+        <element choice="1" label="Drive shape" max_length="40" name="drive_shape" type="choice">
+            <choice/>
+        </element>
+        <element label="Drive size" max_length="40" name="drive_size" type="string"/>
+        <element label="EAN Code" max_length="40" name="ean_code" type="integer"/>
+        <element choice="1" label="Head shape" max_length="40" name="head_shape" type="choice">
+            <choice/>
+        </element>
+        <element label="Height of head" max_length="40" name="height_of_head" type="float"/>
+        <element label="Length" max_length="40" name="length" type="string"/>
+        <element label="Material" max_length="40" name="material" type="string"/>
+        <element label="Notes" max_length="4000" name="notes" type="journal"/>
         <element label="Phone number" max_length="40" name="phone_number" type="phone_number_e164"/>
         <element label="Physical Address" max_length="400" name="physical_address" type="string"/>
+        <element label="Picture" max_length="40" name="picture" type="user_image"/>
+        <element label="Thread length" max_length="40" name="thread_length" type="integer"/>
+        <element choice="1" label="Thread type" max_length="40" name="thread_type" type="choice">
+            <choice/>
+        </element>
+        <element label="Unit" max_length="40" name="unit" type="string"/>
     </element>
 </database>
