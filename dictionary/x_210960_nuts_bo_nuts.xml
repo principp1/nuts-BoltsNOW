@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_210960_nuts_bo_client" label="Nuts" max_length="40" name="x_210960_nuts_bo_nuts" type="collection">
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_price_1" type="price"/>
+    </element>
+</database>

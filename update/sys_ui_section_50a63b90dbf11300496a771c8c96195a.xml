@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="50a63b90dbf11300496a771c8c96195a" sys_domain="global" table="x_210960_nuts_bo_nuts" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>article_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-27 10:57:37</sys_created_on>
+            <sys_id>3e28b7d0dbf11300496a771c8c961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210960_nuts_bo_nuts" sys_domain="global" view="Default view">50a63b90dbf11300496a771c8c96195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-27 10:57:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>article_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-27 10:57:37</sys_created_on>
+            <sys_id>be28b7d0dbf11300496a771c8c961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210960_nuts_bo_nuts" sys_domain="global" view="Default view">50a63b90dbf11300496a771c8c96195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-27 10:57:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_price_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-27 10:57:37</sys_created_on>
+            <sys_id>3228b7d0dbf11300496a771c8c961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210960_nuts_bo_nuts" sys_domain="global" view="Default view">50a63b90dbf11300496a771c8c96195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-27 10:57:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-27 10:57:37</sys_created_on>
+            <sys_id>b228b7d0dbf11300496a771c8c961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210960_nuts_bo_nuts" sys_domain="global" view="Default view">50a63b90dbf11300496a771c8c96195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-27 10:57:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>length</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-27 10:57:37</sys_created_on>
+            <sys_id>3628b7d0dbf11300496a771c8c961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210960_nuts_bo_nuts" sys_domain="global" view="Default view">50a63b90dbf11300496a771c8c96195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-27 10:57:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>diameter_of_head</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-27 10:57:37</sys_created_on>
+            <sys_id>b628b7d0dbf11300496a771c8c961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210960_nuts_bo_nuts" sys_domain="global" view="Default view">50a63b90dbf11300496a771c8c96195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-27 10:57:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ean_code</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-27 10:57:37</sys_created_on>
+            <sys_id>3a28b7d0dbf11300496a771c8c961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210960_nuts_bo_nuts" sys_domain="global" view="Default view">50a63b90dbf11300496a771c8c96195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-27 10:57:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unit</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-27 10:57:37</sys_created_on>
+            <sys_id>ba28b7d0dbf11300496a771c8c961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210960_nuts_bo_nuts" sys_domain="global" view="Default view">50a63b90dbf11300496a771c8c96195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-27 10:57:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_210960_nuts_bo_nuts</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-27 10:50:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50a63b90dbf11300496a771c8c96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_210960_nuts_bo_nuts</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Nuts &amp; Bolts NOW" source="x_210960_nuts_bo">99d24d3bdb691300496a771c8c9619fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Nuts &amp; Bolts NOW">99d24d3bdb691300496a771c8c9619fc</sys_scope>
+            <sys_update_name>sys_ui_section_50a63b90dbf11300496a771c8c96195a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-27 10:50:54</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

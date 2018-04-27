@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Supplier" language="en" table="x_210960_nuts_bo_supplier">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Supplier</label>
+            <language>en</language>
+            <name>x_210960_nuts_bo_supplier</name>
+            <plural>Suppliers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-27 09:56:24</sys_created_on>
+            <sys_id>d22aef98dbb11300496a771c8c961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Supplier</sys_name>
+            <sys_package display_value="Nuts &amp; Bolts NOW" source="x_210960_nuts_bo">99d24d3bdb691300496a771c8c9619fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Nuts &amp; Bolts NOW">99d24d3bdb691300496a771c8c9619fc</sys_scope>
+            <sys_update_name>sys_documentation_x_210960_nuts_bo_supplier__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-27 09:56:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

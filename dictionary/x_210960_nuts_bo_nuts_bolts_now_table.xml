@@ -4,6 +4,7 @@
         <element label="Article name" max_length="40" name="article_name" type="string"/>
         <element label="Article number" max_length="40" name="article_number" type="string"/>
         <element label="Company name" max_length="40" name="company_name" type="string"/>
+        <element label="Contact Person" max_length="32" name="contact_person" reference="sys_user" type="reference"/>
         <element label="Diameter" max_length="40" name="diameter" type="string"/>
         <element label="Diameter of head" max_length="40" name="diameter_of_head" type="float"/>
         <element choice="1" label="Drive shape" max_length="40" name="drive_shape" type="choice">
