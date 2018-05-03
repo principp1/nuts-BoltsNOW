@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="x_210960_nuts_bo_nuts_bolts_now_table" label="Client" max_length="40" name="x_210960_nuts_bo_client" type="collection"/>
+    <element audit="true" extends="x_210960_nuts_bo_nuts_bolts_now_table" label="Client" max_length="40" name="x_210960_nuts_bo_client" sizeclass="1" type="collection"/>
 </database>
